@@ -9,10 +9,11 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Running](#usage)
+- [Citation](#citation)
 
 ## 📌 About <a name = "about"></a>
 
-This program downloads the election data available on the [Service public fédéral Intérieur](https://resultatselection.belgium.be/fr/information). Fore more information go to their [ℹ️ Info Page](https://resultatselection.belgium.be/fr/information)
+This program downloads the election data available on the [Service public fédéral Intérieur](https://resultatselection.belgium.be/fr/information). This data contains the votes for each party in many Belgium elections since the 18s century at the municipality level. For more information go to their [ℹ️ Info Page](https://resultatselection.belgium.be/fr/information).
 
 ## 🚦 Getting Started <a name = "getting_started"></a>
 
@@ -47,3 +48,19 @@ The second program is on [get_all_results](/get_all_results.py) and downloads al
     python get_all_results.py           # run the program
 ```
 or you can use it on an interactive terminal.
+
+## ☕️ Citation <a name = "citation"></a>
+If this code is useful for your research, please consider citing it as:
+
+```bibtex
+
+@software{resultatselection,
+  author = {Antunes-Neto, Jose},
+  title = {{Scraped data from Le Service public fédéral Intérieur}},
+  url = {https://github.com/github/joseparreiras/resultatselection},
+  version = {1.0.0},
+  date = {2023-02-02}
+}
+```
+
+or refer to GitHub's *"Cite this repository"* button.

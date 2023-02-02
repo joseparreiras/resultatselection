@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If this repo was important to you, please cite it as below:"
+authors:
+- family-names: "Antunes-Neto"
+  given-names: "Jose"
+title: "Scraped data from Le Service public fédéral Intérieur"
+version: 1.0.0
+date-released: 2023-02-02
+url: "https://github.com/github/joseparreiras/resultatselection"
