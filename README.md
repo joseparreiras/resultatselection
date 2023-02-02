@@ -9,7 +9,6 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Running](#usage)
-- [Contributing](../CONTRIBUTING.md)
 
 ## 📌 About <a name = "about"></a>
 
