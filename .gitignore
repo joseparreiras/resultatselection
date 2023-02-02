@@ -1,5 +1,4 @@
 /.DS_Store
 /.history
 /__pycache__
-/crawler.py
-/data
+/data/

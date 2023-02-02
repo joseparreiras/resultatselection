@@ -19,21 +19,21 @@ def get_download_url(query, format="Csv"):
     return "https://resultatselection.belgium.be/fr/Results/DataResult?electionLevelId=%s&dataType=%s" % (query, format)
 
 
-def download_election(type, date, description, browser=None, wait_time=2):
+def download_election(type, date, district, browser=None, wait_time=2):
     """
-    Download the election data for a given type, date and description using Selenium.
+    Download the election data for a given type, date and district type using Selenium.
 
     Args:
         type (str): Election type
         date (str): Election date
-        description (str): Election description
+        district (str): Election's district type
         browser (selenium.webdriver.firefox.webdriver.WebDriver, optional): Selenium browser. Defaults to None (Open new).
         wait_time (int, optional): Time for browser to wait between requests (in seconds). Defaults to 2.
     """
 
     # Starting URL
     url = "https://resultatselection.belgium.be/fr/search/%s/%s/%s" % (
-        type, date, description)
+        type, date, district)
 
     # Use selenium to browse the website
     if browser is None:
@@ -63,7 +63,7 @@ def download_election(type, date, description, browser=None, wait_time=2):
         name = name_list[i]  # Get name
         download_url = get_download_url(id)  # Get download URL
         new_rows = pd.read_csv(download_url, sep=';')  # Read CSV file
-        new_rows[description] = name  # Add Commune name
+        new_rows[district] = name  # Add district name
         table = pd.concat((table, new_rows))  # Append to table
 
     table['date'] = date  # Add election date to the table

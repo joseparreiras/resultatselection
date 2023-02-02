@@ -55,21 +55,21 @@ time.sleep(1)  # Wait for page to load
 text = browser.page_source  # Get HTML source
 dom = etree.HTML(text)  # Parse HTML source
 
-election_descriptions = dom.xpath(
-    '//select[@id="select_election_description"]/option/@data-slug')[1:]  # Election descriptions
+district_type = dom.xpath(
+    '//select[@id="select_election_description"]/option/@data-slug')[1:]  # Election's district type
 
 # Ask user for region
-description_question = [
-    inquirer.List('description',
-                  message="What election region do you want?",
-                  choices=election_descriptions
+district_question = [
+    inquirer.List('district',
+                  message="What district type do you want?",
+                  choices=district_type
                   ),
 ]
-description = inquirer.prompt(description_question)[
-    'description']  # Get region from input
+district = inquirer.prompt(district_question)[
+    'district']  # Get district type from input
 
 # Scrape all available communes
-data = download_election(type, date, description, browser, out_dir)
+data = download_election(type, date, district, browser, out_dir)
 
 # create output directory if not exists
 os.path.isdir(out_dir) or os.makedirs(out_dir)
