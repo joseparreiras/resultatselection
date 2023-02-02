@@ -27,7 +27,7 @@ This code uses Selenium webdriver to download the data. You can find the install
 Geckodriver is used to control the Firefox browser. You can download it from [here](https://github.com/mozilla/geckodriver/releases) or using homebrew on macOS:
 
 ```
-    brew install geckodriver            # install geckodriver
+    brew install geckodriver          
 ```
 
 End with an example of getting some data out of the system or using it for a little demo.
@@ -36,7 +36,7 @@ End with an example of getting some data out of the system or using it for a lit
 The file [resultat.py](/resultat.py) contains the functions that are used to download the data. The main function is `download_election` and you can find the documentation for it in the file. The second function `get_download_url` is used to get the download link for a specific election queue. It can be imported with:
 
 ```python
-    from resultat import *             # import the functions
+    from resultat import *
 ```
 
 ## 🏃🏻‍♂️ Running <a name = "usage"></a>
