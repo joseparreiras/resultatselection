@@ -1,8 +1,6 @@
 # Scraped data from Le Service public fédéral Intérieur
 
-![Python](https://img.shields.io/github/pipenv/locked/python-version/joseparreiras/resultatselection)
 ![Open Issues](https://img.shields.io/github/issues-raw/joseparreiras/resultatselection)
-![Issues](https://img.shields.io/github/issues/joseparreiras/resultatselection)
 ![Last Commit](https://img.shields.io/github/last-commit/joseparreiras/resultatselection)
 ![Language](https://img.shields.io/github/languages/top/joseparreiras/resultatselection)
 ![Git Forks](https://img.shields.io/github/forks/joseparreiras/resultatselection?label=Fork)
