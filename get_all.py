@@ -42,12 +42,14 @@ for type in election_types:
         dom = etree.HTML(text)  # Parse HTML source
 
         election_descriptions = dom.xpath(
-            '//select[@id="select_election_description"]/option/@data-slug')[1:]  # Election descriptions
+            '//select[@id="select_election_description"]/option/@data-slug')  # Election descriptions
         for description in election_descriptions:
             print('Downloading (%s,%s,%s)' % (type, date, description))
             # Download data for (type, date, description)
             data = download_election(type, date, description, browser)
-            os.path.isdir(out_dir+'%s/%s/' % (type, date)) or os.makedirs(out_dir+'%s/%s/' % (type, date))
-            data.to_csv(out_dir+'%s/%s/%s.csv' % (type, date, description), index = False)
+            os.path.isdir(out_dir+'%s/%s/' % (type, date)
+                          ) or os.makedirs(out_dir+'%s/%s/' % (type, date))
+            data.to_csv(out_dir+'%s/%s/%s.csv' %
+                        (type, date, description), index=False)
 
-browser.close() # Close browser
+browser.close()  # Close browser
