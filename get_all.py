@@ -29,7 +29,7 @@ for type in election_types:
     dom = etree.HTML(text)  # Parse HTML source
 
     election_dates = dom.xpath(
-        '//select[@id="select_election_date"]/option/@data-slug')[1:]  # Election dates
+        '//select[@id="select_election_date"]/option/@data-slug')  # Election dates
 
     for date in election_dates:
         # Scrape all available regions
