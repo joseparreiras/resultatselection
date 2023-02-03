@@ -1,0 +1,113 @@
+Parti,Nombre de sièges,Nombre de voix,province,date,election
+AGALEV,9.0,120911,Anvers,2000,conseils-provinciaux
+SP,12.0,149083,Anvers,2000,conseils-provinciaux
+CVP,21.0,249840,Anvers,2000,conseils-provinciaux
+VU-ID,2.0,64096,Anvers,2000,conseils-provinciaux
+VLD,20.0,222306,Anvers,2000,conseils-provinciaux
+VLAAMS BLOK,20.0,237142,Anvers,2000,conseils-provinciaux
+VIVANT,,12043,Anvers,2000,conseils-provinciaux
+PVDA,,9990,Anvers,2000,conseils-provinciaux
+W.O.W.,,4276,Anvers,2000,conseils-provinciaux
+E.D.B.,,777,Anvers,2000,conseils-provinciaux
+E.T.A.,,2294,Anvers,2000,conseils-provinciaux
+AGALEV,8.0,64447,Brabant flamand,2000,conseils-provinciaux
+SP,12.0,94987,Brabant flamand,2000,conseils-provinciaux
+CVP,22.0,159278,Brabant flamand,2000,conseils-provinciaux
+VU-ID,5.0,44519,Brabant flamand,2000,conseils-provinciaux
+VLD,21.0,163785,Brabant flamand,2000,conseils-provinciaux
+VLAAMS BLOK,10.0,80020,Brabant flamand,2000,conseils-provinciaux
+PVDA,,3937,Brabant flamand,2000,conseils-provinciaux
+UF,6.0,46106,Brabant flamand,2000,conseils-provinciaux
+VIVANT,,10057,Brabant flamand,2000,conseils-provinciaux
+ECOLO,11.0,38059,Brabant wallon,2000,conseils-provinciaux
+P.R.L.F.D.F.,23.0,81386,Brabant wallon,2000,conseils-provinciaux
+P.S.,13.0,45602,Brabant wallon,2000,conseils-provinciaux
+PSC,8.0,27839,Brabant wallon,2000,conseils-provinciaux
+FN,,3381,Brabant wallon,2000,conseils-provinciaux
+R.W.F.,,2513,Brabant wallon,2000,conseils-provinciaux
+VIVANT,1.0,4913,Brabant wallon,2000,conseils-provinciaux
+FNB,,1338,Brabant wallon,2000,conseils-provinciaux
+DLP,,356,Brabant wallon,2000,conseils-provinciaux
+PTB,,775,Brabant wallon,2000,conseils-provinciaux
+AGALEV,4.0,60288,Flandre occidentale,2000,conseils-provinciaux
+SP,18.0,143936,Flandre occidentale,2000,conseils-provinciaux
+CVP,33.0,256949,Flandre occidentale,2000,conseils-provinciaux
+VU-ID,4.0,51275,Flandre occidentale,2000,conseils-provinciaux
+VLD,20.0,157105,Flandre occidentale,2000,conseils-provinciaux
+VLAAMS BLOK,5.0,81657,Flandre occidentale,2000,conseils-provinciaux
+V.N.P.,,2044,Flandre occidentale,2000,conseils-provinciaux
+VIVANT,,6775,Flandre occidentale,2000,conseils-provinciaux
+PVDA,,2286,Flandre occidentale,2000,conseils-provinciaux
+Z.O.O.Z.,,727,Flandre occidentale,2000,conseils-provinciaux
+GEBE,,682,Flandre occidentale,2000,conseils-provinciaux
+vital,,316,Flandre occidentale,2000,conseils-provinciaux
+AGALEV,5.0,89316,Flandre orientale,2000,conseils-provinciaux
+SP,13.0,138937,Flandre orientale,2000,conseils-provinciaux
+CVP,25.0,241141,Flandre orientale,2000,conseils-provinciaux
+VU-ID,2.0,59108,Flandre orientale,2000,conseils-provinciaux
+VLD,27.0,254840,Flandre orientale,2000,conseils-provinciaux
+VLAAMS BLOK,12.0,138193,Flandre orientale,2000,conseils-provinciaux
+PVDA,,7445,Flandre orientale,2000,conseils-provinciaux
+VIVANT,,7570,Flandre orientale,2000,conseils-provinciaux
+DIGTER,,1112,Flandre orientale,2000,conseils-provinciaux
+E.D.B.,,893,Flandre orientale,2000,conseils-provinciaux
+ECOLO,12.0,93639,Hainaut,2000,conseils-provinciaux
+P.S.,39.0,279261,Hainaut,2000,conseils-provinciaux
+PSC,13.0,110021,Hainaut,2000,conseils-provinciaux
+P.R.L.M.C.C.,19.0,146697,Hainaut,2000,conseils-provinciaux
+FN,1.0,17835,Hainaut,2000,conseils-provinciaux
+R.W.F.,,11946,Hainaut,2000,conseils-provinciaux
+PC,,6657,Hainaut,2000,conseils-provinciaux
+PTB,,6827,Hainaut,2000,conseils-provinciaux
+BLOC.W,,2455,Hainaut,2000,conseils-provinciaux
+VIVANT,,10561,Hainaut,2000,conseils-provinciaux
+FNB,,3432,Hainaut,2000,conseils-provinciaux
+MD,,1162,Hainaut,2000,conseils-provinciaux
+FRANCE,,502,Hainaut,2000,conseils-provinciaux
+MPW,,455,Hainaut,2000,conseils-provinciaux
+ECOLO,12.0,88067,Liège,2000,conseils-provinciaux
+P.S.,33.0,196920,Liège,2000,conseils-provinciaux
+PSC,13.0,88719,Liège,2000,conseils-provinciaux
+P.R.L.M.C.C.,20.0,124196,Liège,2000,conseils-provinciaux
+FN,,7416,Liège,2000,conseils-provinciaux
+BLOC.W,,4227,Liège,2000,conseils-provinciaux
+R.W.F.,,7157,Liège,2000,conseils-provinciaux
+PTB,,4981,Liège,2000,conseils-provinciaux
+PC,,7348,Liège,2000,conseils-provinciaux
+VIVANT,,8320,Liège,2000,conseils-provinciaux
+AGIR,,1996,Liège,2000,conseils-provinciaux
+UCD,,357,Liège,2000,conseils-provinciaux
+FNB,,2664,Liège,2000,conseils-provinciaux
+V.L.,,1432,Liège,2000,conseils-provinciaux
+PDA,,304,Liège,2000,conseils-provinciaux
+SP.,1.0,5318,Liège,2000,conseils-provinciaux
+PFF,2.0,8019,Liège,2000,conseils-provinciaux
+CSP,3.0,11809,Liège,2000,conseils-provinciaux
+PDB,,4881,Liège,2000,conseils-provinciaux
+AGALEV,,29327,Limbourg,2000,conseils-provinciaux
+SP,21.0,125522,Limbourg,2000,conseils-provinciaux
+CVP,27.0,152939,Limbourg,2000,conseils-provinciaux
+VU-ID,2.0,30950,Limbourg,2000,conseils-provinciaux
+VLD,18.0,111392,Limbourg,2000,conseils-provinciaux
+VLAAMS BLOK,7.0,57930,Limbourg,2000,conseils-provinciaux
+PVDA,,4011,Limbourg,2000,conseils-provinciaux
+VIVANT,,3545,Limbourg,2000,conseils-provinciaux
+ECOLO,2.0,18033,Luxembourg,2000,conseils-provinciaux
+P.S.,11.0,36307,Luxembourg,2000,conseils-provinciaux
+PSC,16.0,45854,Luxembourg,2000,conseils-provinciaux
+P.R.L.M.C.C.,18.0,48559,Luxembourg,2000,conseils-provinciaux
+FN,,172,Luxembourg,2000,conseils-provinciaux
+R.L.,,1135,Luxembourg,2000,conseils-provinciaux
+UDDU,,365,Luxembourg,2000,conseils-provinciaux
+P.A.P.,,135,Luxembourg,2000,conseils-provinciaux
+RWF,,385,Luxembourg,2000,conseils-provinciaux
+ECOLO,7.0,40097,Namur,2000,conseils-provinciaux
+P.S.,19.0,83730,Namur,2000,conseils-provinciaux
+PSC,13.0,60446,Namur,2000,conseils-provinciaux
+P.R.L.M.C.C.,17.0,72877,Namur,2000,conseils-provinciaux
+FN,,5651,Namur,2000,conseils-provinciaux
+VIVANT,,1969,Namur,2000,conseils-provinciaux
+R.W.F.,,867,Namur,2000,conseils-provinciaux
+PTB,,303,Namur,2000,conseils-provinciaux
+CHOPE,,359,Namur,2000,conseils-provinciaux
+FNB,,494,Namur,2000,conseils-provinciaux

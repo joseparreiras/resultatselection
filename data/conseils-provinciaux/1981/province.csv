@@ -1,0 +1,99 @@
+Parti,Nombre de sièges,Nombre de voix,province,date,election
+CVP,32.0,311729,Anvers,1981,conseils-provinciaux
+SP,20.0,206809,Anvers,1981,conseils-provinciaux
+PVV,17.0,182359,Anvers,1981,conseils-provinciaux
+AGALEV,4.0,62250,Anvers,1981,conseils-provinciaux
+VU,15.0,157466,Anvers,1981,conseils-provinciaux
+VLAAMS BLOK,2.0,34451,Anvers,1981,conseils-provinciaux
+KP,,15655,Anvers,1981,conseils-provinciaux
+RAD,,18741,Anvers,1981,conseils-provinciaux
+PVDA,,19755,Anvers,1981,conseils-provinciaux
+PVCM,,496,Anvers,1981,conseils-provinciaux
+KAGANO,,458,Anvers,1981,conseils-provinciaux
+R.A.L.,,468,Anvers,1981,conseils-provinciaux
+CVP,14.0,181971,Brabant,1981,conseils-provinciaux
+SP,8.0,112372,Brabant,1981,conseils-provinciaux
+PVV,12.0,152421,Brabant,1981,conseils-provinciaux
+AGALEV,,21492,Brabant,1981,conseils-provinciaux
+VU,8.0,109966,Brabant,1981,conseils-provinciaux
+VLAAMS BLOK,,10905,Brabant,1981,conseils-provinciaux
+PSC,6.0,85400,Brabant,1981,conseils-provinciaux
+PNB-BNP,,596,Brabant,1981,conseils-provinciaux
+PS,10.0,124818,Brabant,1981,conseils-provinciaux
+PRL,13.0,149652,Brabant,1981,conseils-provinciaux
+ECOLO,,49384,Brabant,1981,conseils-provinciaux
+FDF,14.0,161983,Brabant,1981,conseils-provinciaux
+D2000,,134,Brabant,1981,conseils-provinciaux
+KPB/PCB,,25015,Brabant,1981,conseils-provinciaux
+PVDA/PTB,,5706,Brabant,1981,conseils-provinciaux
+ECOLOS,,4868,Brabant,1981,conseils-provinciaux
+RAD/UDRT,5.0,80026,Brabant,1981,conseils-provinciaux
+UNF,,2050,Brabant,1981,conseils-provinciaux
+DCA,,119,Brabant,1981,conseils-provinciaux
+FDF-RW,,18544,Brabant,1981,conseils-provinciaux
+U.R.D.,,801,Brabant,1981,conseils-provinciaux
+LRT-PLS,,145,Brabant,1981,conseils-provinciaux
+CVP,37.0,249796,Flandre occidentale,1981,conseils-provinciaux
+SP,19.0,141657,Flandre occidentale,1981,conseils-provinciaux
+PVV,19.0,144945,Flandre occidentale,1981,conseils-provinciaux
+AGALEV,1.0,15483,Flandre occidentale,1981,conseils-provinciaux
+VU,14.0,116679,Flandre occidentale,1981,conseils-provinciaux
+KPB,,7326,Flandre occidentale,1981,conseils-provinciaux
+andere/autres,,19415,Flandre occidentale,1981,conseils-provinciaux
+CVP,30.0,271171,Flandre orientale,1981,conseils-provinciaux
+SP,18.0,169922,Flandre orientale,1981,conseils-provinciaux
+PVV,23.0,206261,Flandre orientale,1981,conseils-provinciaux
+AGALEV,2.0,34317,Flandre orientale,1981,conseils-provinciaux
+VU,17.0,154783,Flandre orientale,1981,conseils-provinciaux
+VLAAMS BLOK,,13875,Flandre orientale,1981,conseils-provinciaux
+RAD,,3710,Flandre orientale,1981,conseils-provinciaux
+PVDA,,7935,Flandre orientale,1981,conseils-provinciaux
+R.A.L.,,399,Flandre orientale,1981,conseils-provinciaux
+KPB,,13674,Flandre orientale,1981,conseils-provinciaux
+PSC,19.0,131328,Hainaut,1981,conseils-provinciaux
+PS,46.0,291494,Hainaut,1981,conseils-provinciaux
+PRL,19.0,134756,Hainaut,1981,conseils-provinciaux
+FDF-RW,2.0,30603,Hainaut,1981,conseils-provinciaux
+PCB,2.0,47173,Hainaut,1981,conseils-provinciaux
+AUTRE,2.0,97406,Hainaut,1981,conseils-provinciaux
+PSC,18.0,108178,Liège,1981,conseils-provinciaux
+PS,38.0,222244,Liège,1981,conseils-provinciaux
+PRL,22.0,126970,Liège,1981,conseils-provinciaux
+ECOLO,4.0,40793,Liège,1981,conseils-provinciaux
+FDF-RW,3.0,32250,Liège,1981,conseils-provinciaux
+UDRT,1.0,15549,Liège,1981,conseils-provinciaux
+PDB,1.0,8765,Liège,1981,conseils-provinciaux
+PCB,3.0,24720,Liège,1981,conseils-provinciaux
+PNB,,273,Liège,1981,conseils-provinciaux
+PTB,,922,Liège,1981,conseils-provinciaux
+ECOLOS,,1147,Liège,1981,conseils-provinciaux
+RTL,,236,Liège,1981,conseils-provinciaux
+WALLON,,1025,Liège,1981,conseils-provinciaux
+LRT-PLS,,463,Liège,1981,conseils-provinciaux
+CVP,28.0,157211,Limbourg,1981,conseils-provinciaux
+SP,17.0,98234,Limbourg,1981,conseils-provinciaux
+PVV,12.0,74710,Limbourg,1981,conseils-provinciaux
+VU,13.0,78059,Limbourg,1981,conseils-provinciaux
+VLAAMS BLOK,,3179,Limbourg,1981,conseils-provinciaux
+PVDA,,7774,Limbourg,1981,conseils-provinciaux
+LLL,,856,Limbourg,1981,conseils-provinciaux
+KPB,,1959,Limbourg,1981,conseils-provinciaux
+PSC,19.0,47763,Luxembourg,1981,conseils-provinciaux
+PS,14.0,35980,Luxembourg,1981,conseils-provinciaux
+PRL,16.0,41484,Luxembourg,1981,conseils-provinciaux
+ECOLO,1.0,7907,Luxembourg,1981,conseils-provinciaux
+FDF-RW,,1104,Luxembourg,1981,conseils-provinciaux
+UDRT,,6540,Luxembourg,1981,conseils-provinciaux
+PNB,,72,Luxembourg,1981,conseils-provinciaux
+PTB,,88,Luxembourg,1981,conseils-provinciaux
+Lemaire,,187,Luxembourg,1981,conseils-provinciaux
+PSC,17.0,65770,Namur,1981,conseils-provinciaux
+PS,21.0,74874,Namur,1981,conseils-provinciaux
+PRL,13.0,52074,Namur,1981,conseils-provinciaux
+ECOLO,3.0,17698,Namur,1981,conseils-provinciaux
+FDF-RW,4.0,23092,Namur,1981,conseils-provinciaux
+UDRT,2.0,13837,Namur,1981,conseils-provinciaux
+PCB,,4854,Namur,1981,conseils-provinciaux
+WALLON,,253,Namur,1981,conseils-provinciaux
+ECOLO-J.,,447,Namur,1981,conseils-provinciaux
+RPR,,64,Namur,1981,conseils-provinciaux

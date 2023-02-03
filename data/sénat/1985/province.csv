@@ -1,0 +1,116 @@
+Parti,Nombre de sièges,Nombre de voix,province,date,election
+CVP,7.0,346758,Anvers,1985,sénat
+SP,4.0,238562,Anvers,1985,sénat
+PVV,3.0,152558,Anvers,1985,sénat
+AGALEV,1.0,87584,Anvers,1985,sénat
+VU,2.0,127172,Anvers,1985,sénat
+VLAAMS BLOK,,41871,Anvers,1985,sénat
+RAD,,4830,Anvers,1985,sénat
+KPB,,5527,Anvers,1985,sénat
+SAP,,4507,Anvers,1985,sénat
+PVDA,,19293,Anvers,1985,sénat
+CVP,5.0,213032,Brabant,1985,sénat
+SP,3.0,132900,Brabant,1985,sénat
+PVV,2.0,115181,Brabant,1985,sénat
+AGALEV,,37384,Brabant,1985,sénat
+VU,2.0,84552,Brabant,1985,sénat
+VLAAMS BLOK,,17551,Brabant,1985,sénat
+PSC,2.0,95767,Brabant,1985,sénat
+PS,3.0,157149,Brabant,1985,sénat
+PRL,5.0,211822,Brabant,1985,sénat
+ECOLO,1.0,50736,Brabant,1985,sénat
+FDF,1.0,70239,Brabant,1985,sénat
+PW,,970,Brabant,1985,sénat
+RAD,,1524,Brabant,1985,sénat
+RAD/UDRT,,39984,Brabant,1985,sénat
+NF-FN,,4201,Brabant,1985,sénat
+KPB,,1163,Brabant,1985,sénat
+KPB/PCB,,10375,Brabant,1985,sénat
+SAP,,435,Brabant,1985,sénat
+SAP/POS,,1369,Brabant,1985,sénat
+PVDA,,1624,Brabant,1985,sénat
+PVDA/PTB,,2133,Brabant,1985,sénat
+SEP,,9731,Brabant,1985,sénat
+UND,,5010,Brabant,1985,sénat
+PFU,,1430,Brabant,1985,sénat
+PLC,,3001,Brabant,1985,sénat
+FORCES,,7089,Brabant,1985,sénat
+CVP,5.0,255989,Flandre occidentale,1985,sénat
+SP,3.0,181269,Flandre occidentale,1985,sénat
+PVV,2.0,120416,Flandre occidentale,1985,sénat
+AGALEV,,26214,Flandre occidentale,1985,sénat
+VU,1.0,92879,Flandre occidentale,1985,sénat
+VLAAMS BLOK,,8918,Flandre occidentale,1985,sénat
+VVP,,446,Flandre occidentale,1985,sénat
+RAD,,412,Flandre occidentale,1985,sénat
+KPB,,3243,Flandre occidentale,1985,sénat
+SAP,,2375,Flandre occidentale,1985,sénat
+PVDA,,4584,Flandre occidentale,1985,sénat
+GROEN,,4461,Flandre occidentale,1985,sénat
+PAIX,,443,Flandre occidentale,1985,sénat
+CVP,5.0,292905,Flandre orientale,1985,sénat
+SP,3.0,201241,Flandre orientale,1985,sénat
+PVV,3.0,183891,Flandre orientale,1985,sénat
+AGALEV,1.0,53636,Flandre orientale,1985,sénat
+VU,2.0,114831,Flandre orientale,1985,sénat
+VLAAMS BLOK,,16914,Flandre orientale,1985,sénat
+RAD,,915,Flandre orientale,1985,sénat
+KPB,,5357,Flandre orientale,1985,sénat
+SAP,,1881,Flandre orientale,1985,sénat
+PVDA,,5105,Flandre orientale,1985,sénat
+GROEN,,6527,Flandre orientale,1985,sénat
+PSC,3.0,141751,Hainaut,1985,sénat
+PS,7.0,313112,Hainaut,1985,sénat
+PRL,3.0,148928,Hainaut,1985,sénat
+ECOLO,1.0,50950,Hainaut,1985,sénat
+PW,,5343,Hainaut,1985,sénat
+UDRT,,9552,Hainaut,1985,sénat
+PCB,,27950,Hainaut,1985,sénat
+POS,,2562,Hainaut,1985,sénat
+PTB,,3792,Hainaut,1985,sénat
+NCP/PCN,,906,Hainaut,1985,sénat
+SEP,,7997,Hainaut,1985,sénat
+FORCES,,2229,Hainaut,1985,sénat
+PSC,3.0,117252,Liège,1985,sénat
+PS,6.0,240708,Liège,1985,sénat
+PRL,3.0,133000,Liège,1985,sénat
+ECOLO,,36274,Liège,1985,sénat
+PW,,843,Liège,1985,sénat
+UDRT,,8631,Liège,1985,sénat
+PCB,,14519,Liège,1985,sénat
+POS,,1805,Liège,1985,sénat
+PTB,,3112,Liège,1985,sénat
+NCP/PCN,,89,Liège,1985,sénat
+SEP,,9367,Liège,1985,sénat
+UND,,2190,Liège,1985,sénat
+PLC,,266,Liège,1985,sénat
+PDB,,5364,Liège,1985,sénat
+CVP,3.0,151429,Limbourg,1985,sénat
+SP,3.0,114652,Limbourg,1985,sénat
+PVV,1.0,65730,Limbourg,1985,sénat
+AGALEV,,24388,Limbourg,1985,sénat
+VU,1.0,65562,Limbourg,1985,sénat
+VLAAMS BLOK,,4866,Limbourg,1985,sénat
+PW,,892,Limbourg,1985,sénat
+SAP,,966,Limbourg,1985,sénat
+PVDA,,4461,Limbourg,1985,sénat
+PSC,1.0,49630,Luxembourg,1985,sénat
+PS,,35173,Luxembourg,1985,sénat
+PRL,1.0,39048,Luxembourg,1985,sénat
+ECOLO,,7163,Luxembourg,1985,sénat
+UDRT,,2036,Luxembourg,1985,sénat
+POS,,235,Luxembourg,1985,sénat
+PTB,,224,Luxembourg,1985,sénat
+NCP/PCN,,130,Luxembourg,1985,sénat
+SEP,,2542,Luxembourg,1985,sénat
+PSC,1.0,70719,Namur,1985,sénat
+PS,2.0,86650,Namur,1985,sénat
+PRL,1.0,55575,Namur,1985,sénat
+ECOLO,,18238,Namur,1985,sénat
+PW,,2491,Namur,1985,sénat
+UDRT,,5161,Namur,1985,sénat
+PCB,,2886,Namur,1985,sénat
+POS,,651,Namur,1985,sénat
+PTB,,471,Namur,1985,sénat
+NCP/PCN,,187,Namur,1985,sénat
+SEP,,3917,Namur,1985,sénat

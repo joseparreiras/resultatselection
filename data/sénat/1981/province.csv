@@ -1,0 +1,115 @@
+Parti,Nombre de sièges,Nombre de voix,province,date,election
+CVP,6.0,314645,Anvers,1981,sénat
+SP,4.0,213162,Anvers,1981,sénat
+PVV,3.0,187002,Anvers,1981,sénat
+AGALEV,1.0,54526,Anvers,1981,sénat
+VU,3.0,152715,Anvers,1981,sénat
+VLAAMS BLOK,,32389,Anvers,1981,sénat
+RAL,,2838,Anvers,1981,sénat
+RAD,,18600,Anvers,1981,sénat
+KPB,,14786,Anvers,1981,sénat
+PVDA,,18347,Anvers,1981,sénat
+PKS,,737,Anvers,1981,sénat
+CVP,4.0,187668,Brabant,1981,sénat
+SP,2.0,113433,Brabant,1981,sénat
+PVV,3.0,159628,Brabant,1981,sénat
+AGALEV,,20403,Brabant,1981,sénat
+VU,2.0,96908,Brabant,1981,sénat
+VLAAMS BLOK,,10821,Brabant,1981,sénat
+RAL,,569,Brabant,1981,sénat
+PSC,1.0,79139,Brabant,1981,sénat
+PS,3.0,129609,Brabant,1981,sénat
+PRL,3.0,156264,Brabant,1981,sénat
+ECOLO,1.0,48026,Brabant,1981,sénat
+FDF-RW,4.0,168861,Brabant,1981,sénat
+RAD/UDRT,1.0,59730,Brabant,1981,sénat
+RAD,,4203,Brabant,1981,sénat
+UDRT,,16984,Brabant,1981,sénat
+KPB/PCB,,16789,Brabant,1981,sénat
+KPB,,3667,Brabant,1981,sénat
+PCB,,4124,Brabant,1981,sénat
+PVDA/PTB,,2163,Brabant,1981,sénat
+PVDA,,1934,Brabant,1981,sénat
+PTB,,275,Brabant,1981,sénat
+URD,,629,Brabant,1981,sénat
+LRT-PLS,,2153,Brabant,1981,sénat
+PFU,,1052,Brabant,1981,sénat
+ECOLOS,,2796,Brabant,1981,sénat
+FNK,,5317,Brabant,1981,sénat
+DD,,2295,Brabant,1981,sénat
+UNF,,2721,Brabant,1981,sénat
+CVP,4.0,234828,Flandre occidentale,1981,sénat
+SP,2.0,144946,Flandre occidentale,1981,sénat
+PVV,3.0,148877,Flandre occidentale,1981,sénat
+AGALEV,,11820,Flandre occidentale,1981,sénat
+VU,2.0,115104,Flandre occidentale,1981,sénat
+VLAAMS BLOK,,8430,Flandre occidentale,1981,sénat
+RAL,,558,Flandre occidentale,1981,sénat
+RAD,,2791,Flandre occidentale,1981,sénat
+KPB,,9723,Flandre occidentale,1981,sénat
+PVDA,,7860,Flandre occidentale,1981,sénat
+PAIX,,611,Flandre occidentale,1981,sénat
+CVP,5.0,262777,Flandre orientale,1981,sénat
+SP,3.0,170921,Flandre orientale,1981,sénat
+PVV,4.0,209348,Flandre orientale,1981,sénat
+AGALEV,,34267,Flandre orientale,1981,sénat
+VU,2.0,149906,Flandre orientale,1981,sénat
+VLAAMS BLOK,,14723,Flandre orientale,1981,sénat
+RAL,,1980,Flandre orientale,1981,sénat
+RAD,,3781,Flandre orientale,1981,sénat
+KPB,,13206,Flandre orientale,1981,sénat
+PVDA,,7249,Flandre orientale,1981,sénat
+GOOSSE,,1511,Flandre orientale,1981,sénat
+PSC,3.0,130177,Hainaut,1981,sénat
+PS,7.0,297071,Hainaut,1981,sénat
+PRL,3.0,137470,Hainaut,1981,sénat
+ECOLO,1.0,38295,Hainaut,1981,sénat
+FDF-RW,,28498,Hainaut,1981,sénat
+UDRT,,20484,Hainaut,1981,sénat
+FN,,2092,Hainaut,1981,sénat
+PCB,1.0,44931,Hainaut,1981,sénat
+PTB,,1247,Hainaut,1981,sénat
+LRT-PLS,,1374,Hainaut,1981,sénat
+WALLON,,30632,Hainaut,1981,sénat
+BELGE,,1326,Hainaut,1981,sénat
+SP/PS,,31095,Liège,1981,sénat
+PSC/CSP,,35995,Liège,1981,sénat
+PRL/PFF,,37688,Liège,1981,sénat
+PSC,2.0,106196,Liège,1981,sénat
+PS,6.0,223681,Liège,1981,sénat
+PRL,3.0,127490,Liège,1981,sénat
+ECOLO,1.0,38886,Liège,1981,sénat
+FDF-RW,,31111,Liège,1981,sénat
+UDRT,,16138,Liège,1981,sénat
+KPB/PCB,,3418,Liège,1981,sénat
+PCB,,20244,Liège,1981,sénat
+PTB,,1544,Liège,1981,sénat
+LRT-PLS,,1569,Liège,1981,sénat
+PDB,,8770,Liège,1981,sénat
+LISTE-14,,378,Liège,1981,sénat
+LISTE-12,,626,Liège,1981,sénat
+LISTE-13,,111,Liège,1981,sénat
+CVP,3.0,149435,Limbourg,1981,sénat
+SP,2.0,89664,Limbourg,1981,sénat
+PVV,1.0,76282,Limbourg,1981,sénat
+VU,1.0,72369,Limbourg,1981,sénat
+VLAAMS BLOK,,5370,Limbourg,1981,sénat
+RAL,,2505,Limbourg,1981,sénat
+KPB,,3607,Limbourg,1981,sénat
+PVDA,,8752,Limbourg,1981,sénat
+PSC,1.0,45256,Luxembourg,1981,sénat
+PS,,32419,Luxembourg,1981,sénat
+PRL,1.0,38437,Luxembourg,1981,sénat
+ECOLO,,8398,Luxembourg,1981,sénat
+FDF-RW,,3647,Luxembourg,1981,sénat
+UDRT,,7506,Luxembourg,1981,sénat
+PTB,,206,Luxembourg,1981,sénat
+LRT-PLS,,328,Luxembourg,1981,sénat
+PSC,1.0,53965,Namur,1981,sénat
+PS,2.0,72732,Namur,1981,sénat
+PRL,1.0,56207,Namur,1981,sénat
+ECOLO,,20384,Namur,1981,sénat
+FDF-RW,,23610,Namur,1981,sénat
+UDRT,,13914,Namur,1981,sénat
+PCB,,6082,Namur,1981,sénat
+LRT-PLS,,470,Namur,1981,sénat

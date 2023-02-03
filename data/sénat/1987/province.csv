@@ -1,0 +1,101 @@
+Parti,Nombre de sièges,Nombre de voix,province,date,election
+CVP,6.0,318547,Anvers,1987,sénat
+SP,4.0,241881,Anvers,1987,sénat
+PVV,3.0,163788,Anvers,1987,sénat
+AGALEV,1.0,103276,Anvers,1987,sénat
+VU,2.0,123963,Anvers,1987,sénat
+VLAAMS BLOK,1.0,63919,Anvers,1987,sénat
+KPB,,5507,Anvers,1987,sénat
+SAP,,6532,Anvers,1987,sénat
+PVDA,,16028,Anvers,1987,sénat
+CVP,4.0,202914,Brabant,1987,sénat
+SP,3.0,138467,Brabant,1987,sénat
+PVV,2.0,131327,Brabant,1987,sénat
+AGALEV,1.0,45664,Brabant,1987,sénat
+VU,2.0,91635,Brabant,1987,sénat
+VLAAMS BLOK,,19649,Brabant,1987,sénat
+PSC-APB,,50089,Brabant,1987,sénat
+PSC,1.0,34695,Brabant,1987,sénat
+PS,4.0,191092,Brabant,1987,sénat
+PRL,5.0,212980,Brabant,1987,sénat
+ECOLO,1.0,52363,Brabant,1987,sénat
+FDF,1.0,77522,Brabant,1987,sénat
+RW,,2198,Brabant,1987,sénat
+FN-NF,,8186,Brabant,1987,sénat
+PCB,,1698,Brabant,1987,sénat
+KPB/PCB,,6976,Brabant,1987,sénat
+SAP/POS,,3925,Brabant,1987,sénat
+SAP,,1923,Brabant,1987,sénat
+POS,,1293,Brabant,1987,sénat
+PVDA/PTB,,4579,Brabant,1987,sénat
+PFN/PCN,,4677,Brabant,1987,sénat
+PFU,,1127,Brabant,1987,sénat
+PLC,,2771,Brabant,1987,sénat
+CVP,4.0,234504,Flandre occidentale,1987,sénat
+SP,4.0,191749,Flandre occidentale,1987,sénat
+PVV,2.0,129976,Flandre occidentale,1987,sénat
+AGALEV,,56139,Flandre occidentale,1987,sénat
+VU,1.0,88475,Flandre occidentale,1987,sénat
+VLAAMS BLOK,,10595,Flandre occidentale,1987,sénat
+RAD/UDRT,,527,Flandre occidentale,1987,sénat
+SAP,,1818,Flandre occidentale,1987,sénat
+PVDA/PTB,,4057,Flandre occidentale,1987,sénat
+CVP,5.0,268049,Flandre orientale,1987,sénat
+SP,3.0,206845,Flandre orientale,1987,sénat
+PVV,3.0,195365,Flandre orientale,1987,sénat
+AGALEV,1.0,64793,Flandre orientale,1987,sénat
+VU,2.0,114656,Flandre orientale,1987,sénat
+VLAAMS BLOK,,21960,Flandre orientale,1987,sénat
+KPB,,5147,Flandre orientale,1987,sénat
+SAP,,3895,Flandre orientale,1987,sénat
+PVDA/PTB,,5630,Flandre orientale,1987,sénat
+GROEN,,7648,Flandre orientale,1987,sénat
+PSC,3.0,145037,Hainaut,1987,sénat
+PS,7.0,354764,Hainaut,1987,sénat
+PRL,3.0,136054,Hainaut,1987,sénat
+ECOLO,1.0,49693,Hainaut,1987,sénat
+RW,,5158,Hainaut,1987,sénat
+RAD/UDRT,,2165,Hainaut,1987,sénat
+PCB,,18892,Hainaut,1987,sénat
+POS,,5350,Hainaut,1987,sénat
+PVDA/PTB,,4323,Hainaut,1987,sénat
+PFN/PCN,,937,Hainaut,1987,sénat
+BSP/PSB,,46224,Liège,1987,sénat
+PSC/CSP,,43450,Liège,1987,sénat
+PRL/PFF,,34388,Liège,1987,sénat
+PSC,3.0,76569,Liège,1987,sénat
+PS,6.0,221237,Liège,1987,sénat
+PRL,3.0,91717,Liège,1987,sénat
+ECOLO,,38892,Liège,1987,sénat
+RW,,3954,Liège,1987,sénat
+RAD/UDRT,,1923,Liège,1987,sénat
+PCB,,9487,Liège,1987,sénat
+POS,,3795,Liège,1987,sénat
+PVDA/PTB,,2880,Liège,1987,sénat
+UPW/PLC,,475,Liège,1987,sénat
+PDB,,5588,Liège,1987,sénat
+PLC,,373,Liège,1987,sénat
+CVP,3.0,145363,Limbourg,1987,sénat
+SP,3.0,117352,Limbourg,1987,sénat
+PVV,1.0,65984,Limbourg,1987,sénat
+AGALEV,,29177,Limbourg,1987,sénat
+VU,1.0,75681,Limbourg,1987,sénat
+VLAAMS BLOK,,6830,Limbourg,1987,sénat
+SAP,,1893,Limbourg,1987,sénat
+PVDA/PTB,,4770,Limbourg,1987,sénat
+PSC,1.0,47901,Luxembourg,1987,sénat
+PS,1.0,41599,Luxembourg,1987,sénat
+PRL,,40120,Luxembourg,1987,sénat
+ECOLO,,8792,Luxembourg,1987,sénat
+RW,,554,Luxembourg,1987,sénat
+POS,,471,Luxembourg,1987,sénat
+PVDA/PTB,,381,Luxembourg,1987,sénat
+PSC,1.0,76629,Namur,1987,sénat
+PS,2.0,103770,Namur,1987,sénat
+PRL,1.0,49108,Namur,1987,sénat
+ECOLO,,18751,Namur,1987,sénat
+RW,,2469,Namur,1987,sénat
+RAD/UDRT,,1588,Namur,1987,sénat
+PCB,,1594,Namur,1987,sénat
+POS,,1292,Namur,1987,sénat
+PVDA/PTB,,738,Namur,1987,sénat

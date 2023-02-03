@@ -1,0 +1,99 @@
+Parti,Nombre de sièges,Nombre de voix,province,date,election
+CVP,12.0,331245,Anvers,1987,chambre-des-représentants
+SP,8.0,241179,Anvers,1987,chambre-des-représentants
+PVV,5.0,157267,Anvers,1987,chambre-des-représentants
+AGALEV,3.0,98276,Anvers,1987,chambre-des-représentants
+VU,4.0,129784,Anvers,1987,chambre-des-représentants
+VLAAMS BLOK,2.0,62133,Anvers,1987,chambre-des-représentants
+KPB/PCB,,5319,Anvers,1987,chambre-des-représentants
+SAP/POS,,6260,Anvers,1987,chambre-des-représentants
+PVDA/PTB,,19013,Anvers,1987,chambre-des-représentants
+CVP,8.0,198906,Brabant,1987,chambre-des-représentants
+SP,6.0,150583,Brabant,1987,chambre-des-représentants
+PVV,5.0,139029,Brabant,1987,chambre-des-représentants
+AGALEV,1.0,43265,Brabant,1987,chambre-des-représentants
+VU,3.0,84123,Brabant,1987,chambre-des-représentants
+VLAAMS BLOK,,18684,Brabant,1987,chambre-des-représentants
+PSC,3.0,88998,Brabant,1987,chambre-des-représentants
+PS,8.0,192000,Brabant,1987,chambre-des-représentants
+PRL,9.0,219163,Brabant,1987,chambre-des-représentants
+ECOLO,2.0,49339,Brabant,1987,chambre-des-représentants
+FDF,3.0,71338,Brabant,1987,chambre-des-représentants
+RW,,1956,Brabant,1987,chambre-des-représentants
+FN,,7596,Brabant,1987,chambre-des-représentants
+KPB/PCB,,8352,Brabant,1987,chambre-des-représentants
+SAP/POS,,6644,Brabant,1987,chambre-des-représentants
+PVDA/PTB,,4531,Brabant,1987,chambre-des-représentants
+PFN/PCN,,4317,Brabant,1987,chambre-des-représentants
+PLC,,3072,Brabant,1987,chambre-des-représentants
+PFU,,959,Brabant,1987,chambre-des-représentants
+CVP,9.0,245859,Flandre occidentale,1987,chambre-des-représentants
+SP,6.0,186090,Flandre occidentale,1987,chambre-des-représentants
+PVV,5.0,134487,Flandre occidentale,1987,chambre-des-représentants
+AGALEV,,52360,Flandre occidentale,1987,chambre-des-représentants
+VU,3.0,87346,Flandre occidentale,1987,chambre-des-représentants
+VLAAMS BLOK,,9831,Flandre occidentale,1987,chambre-des-représentants
+RAD/UDRT,,372,Flandre occidentale,1987,chambre-des-représentants
+KPB/PCB,,2648,Flandre occidentale,1987,chambre-des-représentants
+SAP/POS,,3127,Flandre occidentale,1987,chambre-des-représentants
+PVDA/PTB,,3960,Flandre occidentale,1987,chambre-des-représentants
+GPR,,340,Flandre occidentale,1987,chambre-des-représentants
+CVP,9.0,281080,Flandre orientale,1987,chambre-des-représentants
+SP,7.0,213194,Flandre orientale,1987,chambre-des-représentants
+PVV,7.0,206908,Flandre orientale,1987,chambre-des-représentants
+AGALEV,2.0,56813,Flandre orientale,1987,chambre-des-représentants
+VU,3.0,110074,Flandre orientale,1987,chambre-des-représentants
+VLAAMS BLOK,,20131,Flandre orientale,1987,chambre-des-représentants
+KPB/PCB,,4405,Flandre orientale,1987,chambre-des-représentants
+SAP/POS,,3882,Flandre orientale,1987,chambre-des-représentants
+PVDA/PTB,,5299,Flandre orientale,1987,chambre-des-représentants
+GROEN,,6096,Flandre orientale,1987,chambre-des-représentants
+PSC,7.0,164964,Hainaut,1987,chambre-des-représentants
+PS,15.0,348213,Hainaut,1987,chambre-des-représentants
+PRL,6.0,133324,Hainaut,1987,chambre-des-représentants
+ECOLO,,45819,Hainaut,1987,chambre-des-représentants
+RW,,4270,Hainaut,1987,chambre-des-représentants
+RAD/UDRT,,2388,Hainaut,1987,chambre-des-représentants
+KPB/PCB,,17456,Hainaut,1987,chambre-des-représentants
+SAP/POS,,4790,Hainaut,1987,chambre-des-représentants
+PVDA/PTB,,3935,Hainaut,1987,chambre-des-représentants
+PFN/PCN,,736,Hainaut,1987,chambre-des-représentants
+PLC,,726,Hainaut,1987,chambre-des-représentants
+PSC,5.0,126908,Liège,1987,chambre-des-représentants
+PS,10.0,271099,Liège,1987,chambre-des-représentants
+PRL,5.0,124517,Liège,1987,chambre-des-représentants
+ECOLO,1.0,35114,Liège,1987,chambre-des-représentants
+RW,,3411,Liège,1987,chambre-des-représentants
+RAD/UDRT,,1545,Liège,1987,chambre-des-représentants
+KPB/PCB,,10330,Liège,1987,chambre-des-représentants
+SAP/POS,,3426,Liège,1987,chambre-des-représentants
+PVDA/PTB,,2829,Liège,1987,chambre-des-représentants
+PDB,,5683,Liège,1987,chambre-des-représentants
+AATSLE,,593,Liège,1987,chambre-des-représentants
+PLC,,338,Liège,1987,chambre-des-représentants
+CVP,5.0,138273,Limbourg,1987,chambre-des-représentants
+SP,5.0,124386,Limbourg,1987,chambre-des-représentants
+PVV,3.0,72067,Limbourg,1987,chambre-des-représentants
+AGALEV,,24723,Limbourg,1987,chambre-des-représentants
+VU,3.0,83793,Limbourg,1987,chambre-des-représentants
+VLAAMS BLOK,,5755,Limbourg,1987,chambre-des-représentants
+KPB/PCB,,1300,Limbourg,1987,chambre-des-représentants
+SAP/POS,,1663,Limbourg,1987,chambre-des-représentants
+PVDA/PTB,,4471,Limbourg,1987,chambre-des-représentants
+PSC,2.0,48754,Luxembourg,1987,chambre-des-représentants
+PS,2.0,41860,Luxembourg,1987,chambre-des-représentants
+PRL,1.0,40672,Luxembourg,1987,chambre-des-représentants
+ECOLO,,8408,Luxembourg,1987,chambre-des-représentants
+RW,,234,Luxembourg,1987,chambre-des-représentants
+RAD/UDRT,,839,Luxembourg,1987,chambre-des-représentants
+SAP/POS,,422,Luxembourg,1987,chambre-des-représentants
+PVDA/PTB,,371,Luxembourg,1987,chambre-des-représentants
+PSC,2.0,62284,Namur,1987,chambre-des-représentants
+PS,5.0,108189,Namur,1987,chambre-des-représentants
+PRL,2.0,60283,Namur,1987,chambre-des-représentants
+ECOLO,,19308,Namur,1987,chambre-des-représentants
+RW,,2520,Namur,1987,chambre-des-représentants
+RAD/UDRT,,1308,Namur,1987,chambre-des-représentants
+KPB/PCB,,1236,Namur,1987,chambre-des-représentants
+SAP/POS,,1232,Namur,1987,chambre-des-représentants
+PVDA/PTB,,809,Namur,1987,chambre-des-représentants

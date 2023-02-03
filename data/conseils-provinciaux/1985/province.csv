@@ -1,0 +1,108 @@
+Parti,Nombre de sièges,Nombre de voix,province,date,election
+AGALEV,7.0,96768,Anvers,1985,conseils-provinciaux
+SP,22.0,235191,Anvers,1985,conseils-provinciaux
+VLAAMS BLOK,2.0,43318,Anvers,1985,conseils-provinciaux
+VU,11.0,133770,Anvers,1985,conseils-provinciaux
+CVP,33.0,339098,Anvers,1985,conseils-provinciaux
+PVV,14.0,150316,Anvers,1985,conseils-provinciaux
+PVDA,1.0,21801,Anvers,1985,conseils-provinciaux
+KPB,,5391,Anvers,1985,conseils-provinciaux
+RAD,,2167,Anvers,1985,conseils-provinciaux
+SAP,,2086,Anvers,1985,conseils-provinciaux
+PKS,,1985,Anvers,1985,conseils-provinciaux
+PRL,18.0,203401,Brabant,1985,conseils-provinciaux
+PS,12.0,148943,Brabant,1985,conseils-provinciaux
+AGALEV,1.0,45089,Brabant,1985,conseils-provinciaux
+SP,9.0,128111,Brabant,1985,conseils-provinciaux
+PSC,9.0,100388,Brabant,1985,conseils-provinciaux
+VU,7.0,86661,Brabant,1985,conseils-provinciaux
+CVP,17.0,206844,Brabant,1985,conseils-provinciaux
+PVV,10.0,120567,Brabant,1985,conseils-provinciaux
+FDF,7.0,81976,Brabant,1985,conseils-provinciaux
+ECOLO,,52099,Brabant,1985,conseils-provinciaux
+SEP,,10447,Brabant,1985,conseils-provinciaux
+VLAAMS BLOK,,19219,Brabant,1985,conseils-provinciaux
+PCB-KPB,,10881,Brabant,1985,conseils-provinciaux
+PW,,150,Brabant,1985,conseils-provinciaux
+UDRT-RAD,,41700,Brabant,1985,conseils-provinciaux
+UND,,3928,Brabant,1985,conseils-provinciaux
+POS_SAP,,1158,Brabant,1985,conseils-provinciaux
+PLC,,3808,Brabant,1985,conseils-provinciaux
+PTB-PVDA,,5149,Brabant,1985,conseils-provinciaux
+FN-NF,,2462,Brabant,1985,conseils-provinciaux
+FORCES,,1329,Brabant,1985,conseils-provinciaux
+DVA,,944,Brabant,1985,conseils-provinciaux
+URD,,854,Brabant,1985,conseils-provinciaux
+DCA-EU,,94,Brabant,1985,conseils-provinciaux
+AGALEV,2.0,41374,Flandre occidentale,1985,conseils-provinciaux
+SP,25.0,173095,Flandre occidentale,1985,conseils-provinciaux
+VU,11.0,93058,Flandre occidentale,1985,conseils-provinciaux
+CVP,38.0,266551,Flandre occidentale,1985,conseils-provinciaux
+PVV,14.0,115228,Flandre occidentale,1985,conseils-provinciaux
+VLAAMS BLOK,,8307,Flandre occidentale,1985,conseils-provinciaux
+KPB,,3092,Flandre occidentale,1985,conseils-provinciaux
+VVP,,628,Flandre occidentale,1985,conseils-provinciaux
+PVDA,,3529,Flandre occidentale,1985,conseils-provinciaux
+VL,,1874,Flandre occidentale,1985,conseils-provinciaux
+PLC,,203,Flandre occidentale,1985,conseils-provinciaux
+GROEN,,4801,Flandre occidentale,1985,conseils-provinciaux
+AGALEV,2.0,58250,Flandre orientale,1985,conseils-provinciaux
+SP,23.0,201646,Flandre orientale,1985,conseils-provinciaux
+VU,12.0,117944,Flandre orientale,1985,conseils-provinciaux
+CVP,34.0,297018,Flandre orientale,1985,conseils-provinciaux
+PVV,19.0,178262,Flandre orientale,1985,conseils-provinciaux
+VLAAMS BLOK,,17724,Flandre orientale,1985,conseils-provinciaux
+KPB,,5283,Flandre orientale,1985,conseils-provinciaux
+SAP,,796,Flandre orientale,1985,conseils-provinciaux
+PVDA,,5120,Flandre orientale,1985,conseils-provinciaux
+GROEN,,7122,Flandre orientale,1985,conseils-provinciaux
+PRL,21.0,144472,Hainaut,1985,conseils-provinciaux
+PS,47.0,310216,Hainaut,1985,conseils-provinciaux
+ECOLO,3.0,54831,Hainaut,1985,conseils-provinciaux
+PSC,19.0,145635,Hainaut,1985,conseils-provinciaux
+SEP,,9168,Hainaut,1985,conseils-provinciaux
+PCB,,28918,Hainaut,1985,conseils-provinciaux
+PW,,5422,Hainaut,1985,conseils-provinciaux
+UDRT,,8341,Hainaut,1985,conseils-provinciaux
+POS,,1720,Hainaut,1985,conseils-provinciaux
+PCN,,1126,Hainaut,1985,conseils-provinciaux
+PTB,,4146,Hainaut,1985,conseils-provinciaux
+FORCES,,1007,Hainaut,1985,conseils-provinciaux
+PLC,,146,Hainaut,1985,conseils-provinciaux
+PRL,22.0,135934,Liège,1985,conseils-provinciaux
+PS,39.0,233830,Liège,1985,conseils-provinciaux
+ECOLO,4.0,38659,Liège,1985,conseils-provinciaux
+PSC,19.0,120576,Liège,1985,conseils-provinciaux
+PCB,1.0,16299,Liège,1985,conseils-provinciaux
+PDB,1.0,6194,Liège,1985,conseils-provinciaux
+SEP,,11280,Liège,1985,conseils-provinciaux
+UDRT,,7358,Liège,1985,conseils-provinciaux
+PTB,,3035,Liège,1985,conseils-provinciaux
+UND,,1164,Liège,1985,conseils-provinciaux
+POS,,1321,Liège,1985,conseils-provinciaux
+AAT,,315,Liège,1985,conseils-provinciaux
+PLC,,407,Liège,1985,conseils-provinciaux
+UPW,,615,Liège,1985,conseils-provinciaux
+SP,20.0,119366,Limbourg,1985,conseils-provinciaux
+VU,12.0,74708,Limbourg,1985,conseils-provinciaux
+CVP,28.0,155609,Limbourg,1985,conseils-provinciaux
+PVV,10.0,65863,Limbourg,1985,conseils-provinciaux
+AGALEV,,22991,Limbourg,1985,conseils-provinciaux
+VLAAMS BLOK,,4008,Limbourg,1985,conseils-provinciaux
+PVDA,,4241,Limbourg,1985,conseils-provinciaux
+SDU-PDB,,281,Limbourg,1985,conseils-provinciaux
+PRL,18.0,46707,Luxembourg,1985,conseils-provinciaux
+PS,13.0,35942,Luxembourg,1985,conseils-provinciaux
+PSC,19.0,49663,Luxembourg,1985,conseils-provinciaux
+ECOLO,,6769,Luxembourg,1985,conseils-provinciaux
+SEP,,2461,Luxembourg,1985,conseils-provinciaux
+UDRT,,1102,Luxembourg,1985,conseils-provinciaux
+PRL,16.0,62262,Namur,1985,conseils-provinciaux
+PS,23.0,90492,Namur,1985,conseils-provinciaux
+ECOLO,3.0,18909,Namur,1985,conseils-provinciaux
+PSC,18.0,70736,Namur,1985,conseils-provinciaux
+SEP,,3939,Namur,1985,conseils-provinciaux
+PCB,,1794,Namur,1985,conseils-provinciaux
+PW,,1934,Namur,1985,conseils-provinciaux
+UDRT,,3104,Namur,1985,conseils-provinciaux
+POS,,152,Namur,1985,conseils-provinciaux
